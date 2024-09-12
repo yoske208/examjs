@@ -1,0 +1,105 @@
+body{
+    background-color: #2C3E50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+.upDiv{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#h2up{
+    color: #28A760;
+    
+}
+#greenl{
+    height: 2px;
+    width: 100%;
+    background-color: #28A760;
+    margin: 5px;
+}
+#divform{
+    margin: 10px;
+    padding: 20px;
+    background-color: #34495E;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    width: 700px;
+    
+
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#inputform{
+    background-color: #22313F;
+    width: 600px;
+    margin: 2px;
+    
+}
+#activity{
+    background-color: #22313F;
+    color: white;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+
+}
+#btnAddPersonal{
+    background-color: #27AE60;
+    color: white;
+    width: 600px;
+    margin: 4px;
+    border-radius: 10%;
+
+    
+}
+#table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.all{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#thead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#tr{
+    width: 100%;
+    padding: 8px;
+    background-color:white ;
+    color: #27AE60;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+th{
+    display: flex;
+    margin: 10px;
+}
+#btnfn{
+    background-color: #27AE60;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+}
